@@ -1,0 +1,9 @@
+name: PluginUtils
+version: 1.0.0
+main: de.theholyexception.pluginutils.PluginUtils
+description: Implements /PluginInfo and /SearchCommand
+author: TheHolyException
+website: http://minebug.de
+commands:
+  plugininfo:
+  searchcommand:
